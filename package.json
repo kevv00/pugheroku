@@ -1,0 +1,18 @@
+{
+  "name": "pugheroku",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevv00/pugheroku.git"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevv00/pugheroku/issues"
+  },
+  "homepage": "https://github.com/kevv00/pugheroku#readme"
+}
